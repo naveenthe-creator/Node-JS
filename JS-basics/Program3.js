@@ -1,0 +1,1 @@
+console.log("My age is 22");
